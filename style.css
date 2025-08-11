@@ -1,3 +1,4 @@
+
 @import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
 /* RESET */
 
@@ -81,7 +82,7 @@ a:focus-visible {
 .element1::before {
   content: "";
   display: inline-block;
-  background-image: url("/img/logo.jpg");
+  background-image: url("./img/logo.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   width: 20px;
@@ -1389,4 +1390,5 @@ footer {
   img {
     max-width: 100%;
     height: auto;
+
  }
